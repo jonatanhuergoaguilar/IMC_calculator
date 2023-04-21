@@ -6,9 +6,11 @@ either US or metric units. Note that the calculator also computes the
 Ponderal Index in addition to BMI, both of which are discussed below in detail.
 
 ## Application Design
-![alt text](screenshots/menu.png)
-![alt text](screenshots/calculate.png)
-![alt text](screenshots/result.png)
+|Menu|Calculate|Result|
+|:-:|:-:|:-:|
+![Menu](screenshots/menu.png)
+![Calculate](screenshots/calculate.png)
+![Result](screenshots/result.png)
 
 ### Functionalities
 
