@@ -8,9 +8,7 @@ Ponderal Index in addition to BMI, both of which are discussed below in detail.
 ## Application Design
 |Menu|Calculate|Result|
 |:-:|:-:|:-:|
-![Menu](screenshots/menu.png)
-![Calculate](screenshots/calculate.png)
-![Result](screenshots/result.png)
+|![Menu](screenshots/menu.png)|![Calculate](screenshots/calculate.png)|![Result](screenshots/result.png)|
 
 ### Functionalities
 
