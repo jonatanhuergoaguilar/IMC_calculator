@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Heroes</string>
+    <string name="calc">IMC App</string>
+    <string name="male_icon">Male Icon</string>
+    <string name="male">Male</string>
+    <string name="female">female</string>
+    <string name="female_icon">Female Icon</string>
+    <string name="height">Height</string>
+    <string name="cm">120 cm</string>
+    <string name="weight">Weight</string>
+    <string name="suma">Summation</string>
+    <string name="minus">subtraction</string>
+    <string name="slider">Height Rage</string>
+    <string name="age">Age</string>
+    <string name="age_sum">Age Sum</string>
+    <string name="age_subs">Age Minus</string>
+    <string name="calculate">Calculate</string>
+    <string name="value_cm">120 cm</string>
+    <string name="result">Your Result</string>
+    <string name="recalculate">Recalculate</string>
+
+    <string name="error">Error</string>
+
+    <string name="underweight">Your Weight Is Low</string>
+    <string name="underweight_description">You are less than optimal for your weight and height.</string>
+
+    <string name="normal_weight">Your Weight Is Normal</string>
+    <string name="normal_weight_description">You are optimal for your weight and height.</string>
+
+    <string name="overweight">Over Weight</string>
+    <string name="overweight_description">You are above the optimal level for your weight and height.</string>
+
+    <string name="obesity">Obesity</string>
+    <string name="obesity_description">You have a very high weight, you should go to the doctor.</string>
+
+
+</resources>
